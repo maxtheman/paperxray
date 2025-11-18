@@ -1,0 +1,5 @@
+{
+  "name": "Paper X-Ray",
+  "description": "An interactive research assistant that translates complex ML equations into geometric intuitions, dimensional blocks, and interactive playgrounds.",
+  "requestFramePermissions": []
+}
